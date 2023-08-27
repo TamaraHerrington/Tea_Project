@@ -1,21 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          TeaProject template test.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.figma.com/file/KkJfmVEqLkIWM4rWzZ7csu/Tea_Project?type=whiteboard&node-id=0-1&t=uU6Z6BCUyeWovJga-0"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Figma Board Link
         </a>
       </header>
     </div>
